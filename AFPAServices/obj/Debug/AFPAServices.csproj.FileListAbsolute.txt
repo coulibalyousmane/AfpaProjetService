@@ -1,0 +1,45 @@
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe.config
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csprojResolveAssemblyReference.cache
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Properties.Resources.resources
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Form1.resources
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csproj.GenerateResource.Cache
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\bin\Debug\AFPAServices.pdb
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.exe
+d:\mes documents\visual studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.pdb
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe.config
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.exe
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.pdb
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\bin\Debug\AFPAServices.pdb
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Properties.Resources.resources
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Form1.resources
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csproj.GenerateResource.Cache
+C:\Users\Ousmane\Documents\Visual Studio 2015\Projects\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csprojResolveAssemblyReference.cache
+D:\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe.config
+D:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.exe
+D:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.pdb
+D:\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe
+D:\AFPAServices\AFPAServices\bin\Debug\AFPAServices.pdb
+D:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csprojResolveAssemblyReference.cache
+D:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Properties.Resources.resources
+D:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Form1.resources
+D:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csproj.GenerateResource.Cache
+G:\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe.config
+G:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.exe
+G:\AFPAServices\AFPAServices\obj\Debug\AFPAServices.pdb
+C:\Users\Cdi11\Desktop\Github\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe.config
+C:\Users\Cdi11\Desktop\Github\AFPAServices\AFPAServices\obj\Debug\AFPAServices.exe
+C:\Users\Cdi11\Desktop\Github\AFPAServices\AFPAServices\obj\Debug\AFPAServices.pdb
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe.config
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\obj\Debug\AFPAServices.exe
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\obj\Debug\AFPAServices.pdb
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\bin\Debug\AFPAServices.exe
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\bin\Debug\AFPAServices.pdb
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csprojResolveAssemblyReference.cache
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Properties.Resources.resources
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\obj\Debug\AFPAServices.Form1.resources
+C:\Users\Cdi11\Desktop\Github\Afpaproj\AFPAServices\AFPAServices\obj\Debug\AFPAServices.csproj.GenerateResource.Cache
+C:\Users\Cdi11\Desktop\Github\AfpaProjetService\AFPAServices\bin\Debug\AFPAServices.exe.config
+C:\Users\Cdi11\Desktop\Github\AfpaProjetService\AFPAServices\obj\Debug\AFPAServices.exe
+C:\Users\Cdi11\Desktop\Github\AfpaProjetService\AFPAServices\obj\Debug\AFPAServices.pdb
